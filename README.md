@@ -1,4 +1,4 @@
-# This is a basic implimentainion of the Llama 3 without crying 
+# This is a implimentation of Llama 3 paper without crying
 ### This repo is to explain and understand how the evolution of LLM goes from pretraining -> finetuning -> benchmarking -> deplyment -> application development over it
 ### I will be updating this repo at every single stange and opensource the code for any individuals to emulate the same 
 ### I hope an individual one day could build an model equivalent to big AGI houses like OpenAI, Mistral, Meta ..
