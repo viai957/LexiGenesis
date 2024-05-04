@@ -1110,7 +1110,20 @@ def get_tokenizer(size: int):
 ```python
 tokenizer = get_tokenizer(size = 512)
 ```
+## Acknowledgments 💖
 
+This project has been inspired and informed by various resources and individuals in the AI and machine learning
+community. We'd like to extend our gratitude to the following:
+
+- [Andrej Karpathy for his tutorial on training a GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1058s&ab_channel=AndrejKarpathy).
+  His insights into neural network architectures and training methodologies have been invaluable.
+- [Umar Jamil's guide on Training LLama2 from scratch](https://www.youtube.com/watch?v=oM4VmoabDAI&ab_channel=UmarJamil).
+  This resource provided practical insights and a foundational understanding necessary for this implementation.
+- The [Meta LLaMA GitHub repository](https://github.com/meta-llama/llama) has been an essential resource for
+  understanding the intricacies of the LLaMA 2 model and its implementation.
+
+I am grateful for the knowledge shared by these individuals and communities, which has significantly contributed to the
+development of this project.
 
 ```python
 
