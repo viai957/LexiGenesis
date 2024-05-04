@@ -1,5 +1,5 @@
 # This is a implimentation of Llama 3 paper without crying
-### a brief tutorial on how to implement a paper and debug your model.
+### A brief tutorial on how to implement a paper and debug your model.
 ### I will be updating this repo at every single stange and opensource the code for any individuals to emulate the same 
 ### I hope an individual one day could build an model equivalent to big AGI houses (ofcourse not the parameter equivant models) like OpenAI, Mistral, Meta .. 
 ### One step at a time
